@@ -6,7 +6,7 @@ app.get('/index',(req,res)=>{
   res.end('Hello world');  
 })
 
-app.get('/about',(req,res)=>{
+app.get('/aboutpage',(req,res)=>{
     res.sendFile(__dirname + '/public/about.html');
 })
 
