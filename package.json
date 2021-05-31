@@ -1,0 +1,15 @@
+{
+  "name": "n",
+  "version": "1.0.0",
+  "description": "",
+  "main": "2nd.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node wbe.js"
+  },
+  "author": "Tran Tuan Anh",
+  "license": "Free",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
